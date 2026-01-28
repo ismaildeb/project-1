@@ -1,1 +1,1 @@
-# project-1
+# football-scouting-platform
